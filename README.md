@@ -1,0 +1,2 @@
+A simple app to get  users  from gihub using Gihub API with Vanilla Javascript  i used to create my own HTTP Class  using fetch API. 
+You can search for users ,  and it will give  their 5 last repos , and also shows some informations  like followsrs, following , user profile, gist, location, company.. etc
